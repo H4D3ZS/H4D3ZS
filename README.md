@@ -95,18 +95,12 @@
 <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/godot.svg" alt="godot">
 <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/qt.svg" alt="qt">
 <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/react.svg" alt="react">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/unity.svg" alt="unity">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/vue.svg" alt="vuejs">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/boostrap.svg" alt="boostrap">
-
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/unity.svg" alt="unity">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/vue.svg" alt="vuejs">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/bootstrap.svg" alt="boostrap">
 <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/docker.svg" alt="docker">
-  
 <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/xcode.svg" alt="xcode">
-  
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/android_studio.svg" alt="android studio">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/android_studio.svg" alt="android studio">
   
 
 
