@@ -83,34 +83,18 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/java.svg" alt="java" 
+ <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/java.svg" alt="java" 
   style="vertical-align:top; margin:4px">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/php.svg" alt="php" 
+ <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/php.svg" alt="php" 
   style="vertical-align:top; margin:4px">
-
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/go.svg" alt="golang">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/angular.svg" alt="angular">
-
-
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/flutter.svg" alt="flutter">
-
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/ionic.svg" alt="ionic">
-
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/godot.svg" alt="godot">
-
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/qt.svg" alt="qt">
-
-  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/react.svg" alt="react">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/go.svg" alt="golang">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/angular.svg" alt="angular">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/flutter.svg" alt="flutter">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/ionic.svg" alt="ionic">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/godot.svg" alt="godot">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/qt.svg" alt="qt">
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/react.svg" alt="react">
 
   <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/unity.svg" alt="unity">
 
