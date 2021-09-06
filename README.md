@@ -48,7 +48,7 @@
  
 
  <p align="center">
-  <h4>      Sr. Full Stack Software Engr | Sr. Security Engr | Sr. Software Architect | React | TypeScript | Competitive Programming| CTF | Hackathons |</h4>
+  <h4>  Sr. Full Stack Software Engr | Sr. Security Engr | Sr. Software Architect | Hackathons |</h4>
    </p>
 
 
@@ -65,7 +65,7 @@
 
 <br />
 
-### - Languages and Tools...
+### - Programming Languages, Frameworks and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -83,6 +83,49 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/dart_colour.svg" alt="dart" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/java.svg" alt="java" 
+  style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/php.svg" alt="php" 
+  style="vertical-align:top; margin:4px">
+
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/languages/go.svg" alt="golang">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/angular.svg" alt="angular">
+
+
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/flutter.svg" alt="flutter">
+
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/ionic.svg" alt="ionic">
+
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/godot.svg" alt="godot">
+
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/qt.svg" alt="qt">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/react.svg" alt="react">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/unity.svg" alt="unity">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/vue.svg" alt="vuejs">
+
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/frameworks/boostrap.svg" alt="boostrap">
+
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/docker.svg" alt="docker">
+  
+<img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/xcode.svg" alt="xcode">
+  
+  <img src="https://raw.githubusercontent.com/H4D3ZS/H4D3ZS/main/svg/dev/tools/android_studio.svg" alt="android studio">
+  
+
+
 </p>
 
 
