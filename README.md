@@ -30,27 +30,25 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm 20 years old Self-taught From the Very Young Age Because I'm Always Interested In Technology and It's my First Love.</h3>
 </p>
 
- - 🥀 Always Striving To be The Bestest Version of A Developer I Could be.
+ - Always Striving To be The Bestest Version of A Developer I Could be.
  
- - <i>React-JS , React Native For Life.</i>
+ - <i>React-JS , React Native , InfoSec</i>
    
- - 🔭 I'm a person who always questions everything because it's interesting.
+ -  I'm a person who always questions everything because it's interesting.
 
- - 🛸 I will always do software development because it's my passion money is just a bonus.
- 
- -  I'm a test  all of my applications and patch them before deploying them. :heart:
+ -  Development Fulfills my wildest desires, it gives me complex equations to solve.
+
+ -  Before Deployment Always Test The Applications Security and Patch it Right Away. :heart:
  
  -  The Best Defensive on a Large Scale System is you hack it via white box testing and blackbox and then you patch it instantly.
  
- <!-- - 💬 Want to Get Connected? Talk in FB 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi) -->
- 
+
  <p align="center">
-  <h4> Sr. Full Stack Software Engr | React | TypeScript | Competitive Programming| CTF | Hackathons |</h4>
+  <h4>      Sr. Full Stack Software Engr | Sr. Security Engr | Sr. Software Architect | React | TypeScript | Competitive Programming| CTF | Hackathons |</h4>
    </p>
 
 
@@ -60,7 +58,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=H4D3ZS&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -86,17 +84,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
 
 
 
