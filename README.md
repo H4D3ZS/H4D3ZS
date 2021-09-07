@@ -21,7 +21,7 @@
 
 <p align="center">
   
-   <a href="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> <img alt="HADES Github" src="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> </a>
+   <a align="center" href="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> <img alt="HADES Github" src="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> </a>
  </p>
  
  <h5 align="center">
@@ -31,7 +31,7 @@
  
 <br />
 <p align="center">
-  <h3> I'm 20 years old Self-taught From the Very Young Age Because I'm Always Interested In Technology and It's my First Love.</h3>
+  <h3> I'm 20 years old Self-taught From the Very Young Age Because It's my First Love.</h3>
 </p>
 
  - Always Striving To be The Bestest Version of A Developer I Could be.
