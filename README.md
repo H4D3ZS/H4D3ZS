@@ -44,7 +44,7 @@
 
  -  Before Deployment Always Test The Applications Security and Patch it Right Away. :heart:
  
- -  The Best Defensive on a Large Scale System is you hack it via white box testing and blackbox and then you patch it instantly.
+ -  The Best Defensive Security on a Large Scale System is you hack it via white box testing and blackbox and then you patch it instantly.
  
 
  <p align="center">
