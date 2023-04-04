@@ -31,12 +31,12 @@
  
 <br />
 <p align="center">
-  <h3> I'm 21 years old Self-taught From the Very Young Age Because It's my First Love.</h3>
+  <h3> I'm 22 years old Self-taught From the Very Young Age Because It's my First Love.</h3>
 </p>
 
  - Always Striving To be The Bestest Version of A Developer I Could be.
  
- - <i>React-JS , React Native , InfoSec</i>
+ - <i>Flutter Developer, React/ReactNative Developer, InfoSec, Artificial Intelligence</i>
    
  -  I'm a person who always questions everything because it's interesting.
 
@@ -56,11 +56,11 @@
 
 <!--  -->
 
-<p align="center" >
+<!-- <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=H4D3ZS&&show_icons=true&theme=radical"/>
    
-  </a>
+  </a> -->
 
 <a>
 <img  src="https://gh-stats-card.cyclic.app/api/H4D3ZS"/>
@@ -126,5 +126,5 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Be Well, Respected and Humble Yourself.</i>⚡️</h1>
+<h1 align='center'><i>"Code today, debug tomorrow, but never stop learning.".</i></h1>
 
