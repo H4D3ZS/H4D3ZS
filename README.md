@@ -24,9 +24,7 @@
    <a align="center" href="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> <img alt="HADES Github" src="https://badges.pufler.dev/visits/H4D3ZS/H4D3ZS/"> </a>
  </p>
  
- <h5 align="center">
-   <i>⚡️I Work For Money, But I Don't Work Hard, I Work Smarter and Efficiently..</i>
-  </h5>
+
  
  
 <br />
