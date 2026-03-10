@@ -10,7 +10,7 @@
 
 • 24 • Self-taught developer  
 • Passionate about **software engineering, AI, and cybersecurity**  
-• I explore systems, break them, and rebuild them stronger  
+• I explore systems, break them, and rebuild them stronger
 
 ---
 
